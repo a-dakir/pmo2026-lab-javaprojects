@@ -1,4 +1,4 @@
-package it.unibo.oop.robot.base;
+package it.unibo.oop.lab04.robot.base;
 
 /**
  * Models a (x,y) position for a {@link it.unibo.oop.lab04.robot.base.Robot}

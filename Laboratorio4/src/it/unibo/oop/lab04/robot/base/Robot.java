@@ -1,4 +1,4 @@
-package it.unibo.oop.robot.base;
+package it.unibo.oop.lab04.robot.base;
 
 /**
  * A robot that can move

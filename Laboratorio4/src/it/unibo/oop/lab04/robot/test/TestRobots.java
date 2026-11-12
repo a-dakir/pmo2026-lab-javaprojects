@@ -1,8 +1,8 @@
-package it.unibo.oop.robot.test;
+package it.unibo.oop.lab04.robot.test;
 
-import it.unibo.oop.robot.base.BaseRobot;
-import it.unibo.oop.robot.base.RobotEnvironment;
-import it.unibo.oop.robot.base.RobotPosition;
+import it.unibo.oop.lab04.robot.base.BaseRobot;
+import it.unibo.oop.lab04.robot.base.RobotEnvironment;
+import it.unibo.oop.lab04.robot.base.RobotPosition;
 
 /**
  * Utility class for testing componible robots

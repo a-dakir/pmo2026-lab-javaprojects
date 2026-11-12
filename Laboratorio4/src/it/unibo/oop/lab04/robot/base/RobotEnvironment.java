@@ -1,4 +1,4 @@
-package it.unibo.oop.robot.base;
+package it.unibo.oop.lab04.robot.base;
 
 /**
  * Models the environment in which a {@link it.unibo.oop.lab04.robot.base.Robot}

@@ -1,4 +1,4 @@
-package it.unibo.oop.robot.test;
+package it.unibo.oop.lab04.robot.test;
 
 /**
  * Utility class for testing composable robots
